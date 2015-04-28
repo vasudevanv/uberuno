@@ -66,7 +66,6 @@ of the day, aka the "Nappy".
 
 <img src="assets/img/cards_1.png"  width="300">
 
-
 ## Default addons
 
 ### Fast Eddy
