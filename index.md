@@ -12,11 +12,7 @@ which are determined by the dealer of that particular hand.  In &Uuml;ber Uno, t
 is no winner; only one loser.  The goal of the game is to not be the last loser
 of the day, aka the "Nappy".
 
-<<<<<<< HEAD
 ![](assets/img/gameplay.png  =300x)
-=======
-![](./assets/img/gameplay.png  =300x)
->>>>>>> 5249e4b638fe29e2760bdeacbbfd11f037f4c012
 
 ## Basic Rules
 
@@ -68,11 +64,8 @@ of the day, aka the "Nappy".
        on "Uno", that player may go out by giving the challenging player that 
        card.
 
-<<<<<<< HEAD
+
 ![](assets/img/cards_1.png =300x)
-=======
-![](./assets/img/cards_1.png =300x)
->>>>>>> 5249e4b638fe29e2760bdeacbbfd11f037f4c012
 
 ## Default addons
 
