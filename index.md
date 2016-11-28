@@ -66,21 +66,6 @@ of the day, aka the "Nappy".
 
 <img src="assets/img/cards_1.png"  width="600">
 
-## Default addons
-
-### Fast Eddy
-* Any player can play out of turn if they "Fast Eddy" by throwing the same card as the last card thrown.
-     * Players can Fast Eddy the last card at any point before the original player in turn plays.
-     * The player in turn may touch a draw pile, aka "Deck Tap" to prevent the Fast Eddy.
-     * In the event that a player Fast Eddy's a card at the same time as the player in turn,
-       tie goes to the runner, aka the player in turn.
-     * As a consequense of this rule, if a player has multiples of the same card, they may play stack the cards and play
-       play them at the same time.
-
-### Go Fish
-* A zero can be played to ask another player for any card of their choosing, except for the Joker.
-* The targeted player may block the request with their own zero.
-* If the player does not have the card requested, the requesting player must draw from the pile.
 
 ## New Cards
 
@@ -108,8 +93,25 @@ if the requested player plays a change hands card.
 * If a player is in posession of both cards, they may play both cards at once in turn and go directly to uno 
   by choosing a card from their hand and discarding the remaining cards.
 
-## Wild Ones
 
+## Default addons
+
+### Fast Eddy
+* Any player can play out of turn if they "Fast Eddy" by throwing the same card as the last card thrown.
+     * Players can Fast Eddy the last card at any point before the original player in turn plays.
+     * The player in turn may touch a draw pile, aka "Deck Tap" to prevent the Fast Eddy.
+     * In the event that a player Fast Eddy's a card at the same time as the player in turn,
+       tie goes to the runner, aka the player in turn.
+     * As a consequense of this rule, if a player has multiples of the same card, they may play stack the cards and play
+       play them at the same time.
+
+### Go Fish
+* A zero can be played to ask another player for any card of their choosing, except for the Joker.
+* The targeted player may block the request with their own zero.
+* If the player does not have the card requested, the requesting player must draw from the pile.
+
+
+## Wild Ones
 All 1's are wild and they can be played independent of color. Each "1" card has a specific action
 detailed below.  While the magnitude of the action is dependent on the rules for that hand,
 the action of each color 1 card is the same. Any 1 card can be blocked by any other player 
@@ -117,9 +119,9 @@ by throwing down a 1 of the same color. The action will be reinstated if any pla
 color.
 
 ### Old School
+Under the old school rules, the magnitude of action for the 1's is one.
 
-Red One – The Red Hot Chili Pepper Card
-
+####Red One – The Red Hot Chili Pepper Card
 * When played, the player of the card removes one card from his hand and 
   places it face down on he table and gives it to one other player.
 * If the player of the card shows the card to any other player while giving it away, 
@@ -128,9 +130,7 @@ Red One – The Red Hot Chili Pepper Card
   give away one of his cards (unless blocked). 
 * At the end of the game, the Red One counts as one word card.
 
-
-Yellow One – The Confusing One
-
+####Yellow One – The Confusing One
 * Can be played at any time including when hit with a draw card, but cannot 
   be played to go out. 
 * When played during a normal turn, the player turns in his cards to the 
@@ -150,7 +150,8 @@ Yellow One – The Confusing One
     * Skip : The next player in turn draws the original # of cards.
     * Change Hands : The player draws the original # of cards and changes 
       his entire hand with another player.  It can be blocked by the receiving player.
-    * Wild : The player draws the original # of cards and then changes hands.  It cannot be blocked by the receiving player.
+    * Wild : The player draws the original # of cards and then changes hands.  It cannot be
+      blocked by the receiving player unless they have a joker.
     * Yellow #1 : Blocks the original Yellow #1.
 
 * If a Yellow One is the turn card, the dealer must exchange his entire 
@@ -163,8 +164,7 @@ Yellow One – The Confusing One
   period of time in which the card can be blocked or re-instated. 
 * At the end of the game, the Yellow One counts as one word card.
 
-Blue One – The Danger Card
-
+####Blue One – The Danger Card
 * Can be played at any time except to go out and except when hit with a 
   draw card. 
 * When played, hands are changed by passing each hand one position in the 
@@ -176,8 +176,7 @@ Blue One – The Danger Card
   blocked or re-instated. 
 * At the end of the game, the Blue One counts as one word card.
 
-Green One – The Repo Card 
-
+####Green One – The Repo Card 
 * Can be played at any time except to go out and except when hit with a 
   draw card. 
 * When played, the player of the card is entitled to select any one card 
@@ -193,21 +192,26 @@ Green One – The Repo Card
 * At the end of the game, the Green One counts as one word card. 
 
 ### Russian
+The action of the ones remains the same as old school, except the magnitude of their action is determined by "Russian Roulette".
+The player flips a card from the top of the draw pile and this determines the magnitude of the action.
 
-* All the rules from Old School apply, but the magnitude of their action is determined by "Russian Roulette".
-   * Red One : The player flips a card from the top of the deck to determine the number of cards to give away.  If
-     the number is greater than the number of cards in the player's hand, the player must draw up to that number of cards.
-   * Yellow One : The player flips a card from the top of the deck and exchanges their hand.  Consequences are as follows
-      * Numbered Card : The player draws that many cards.
-      * Major : The player draws 4 more cards than they originally had
-      * Minor : The player draws 2 more cards than they originally had
-      * Reverse : The player draws as many cards as the previous player has in their hand.
-      * Skip : The player draws as many cards as the next player has in their hand.
-      * Change Hands : The player draws the original # of cards and changes 
-        their entire hand with another player.  It can be blocked by the receiving player.
-      * Wild : The player draws the original # of cards and then changes hands.  It cannot be blocked by the
-        receiving player.
-      * Yellow #1 : Blocks the original Yellow #1.
+####Red One
+To determine the number of cards to give away the player flips a card from the top of the deck until a numbered card is reached. If
+the number is greater than the number of cards in the player's hand, the player must draw up to that number of cards. 
+
+####Yellow One
+The player flips a card from the top of the deck and the consequences are as follows
+If the drawn card is 
+  * Numbered Card : The player exchanges their hand for that many cards.
+  * Major : The player exchanges their hand for 4 more cards than they originally had
+  * Minor : The player exchanges their hand for 2 more cards than they originally had
+  * Reverse : The player exchanges their hand for as many cards as the previous player has in their hand.
+  * Skip : The player exchanges theur hand for as many cards as the next player has in their hand.
+  * Change Hands : The player draws the original # of cards and changes 
+    their entire hand with another player.  It can be blocked by the receiving player.
+  * Wild : The player exchanges their hand for the same # of cards and then changes hands.  It cannot be blocked by the
+    receiving player unless they have the joker.
+  * Yellow #1 : Blocks the original Yellow #1.
 
 ### Buddy system
 
@@ -251,3 +255,21 @@ wild one then becomes 12. 1's are still color agnostic, so if the player flips a
 
 ### Cards gone Wild
 Wild cards can be played as any card except the Joker or the Uber
+
+### Doos
+The player calls "doos" when he gets down to two cards. If on a turn a player on doos cannot play a card
+from their hand, they call "upperdecker" and flip a card from the top of the deck. They draw cards based on
+the following rules
+  * Numbered Card : The player draws that many cards.
+  * Major : The player draws 5 cards 
+  * Minor : The player draws 3 cards 
+  * Reverse : The player draws as many cards as the previous player has in their hand.
+  * Skip : The player draws as many cards as the next player has in their hand.
+  * Change Hands : The player draws one card and changes their entire hand with another player.  It can be blocked by the receiving player.
+  * Wild : The player draws one card and then changes hands.  It cannot be blocked by the receiving player unless they have the joker.
+
+### Rotate
+Each time a reverse is played you rotate hands in the direction of play. If multiple reverses are played by the same player then the
+number of places you rotate by increases, i.e., if two reverses are played you change hands with the person 2 places in the direction
+of play. if 3 reverses are played, then you rotate hands by 3 places in the opposite direction of play. A player can fast eddy and either
+add to or cancel a reverse. The rotation can be blocked by a joker.
