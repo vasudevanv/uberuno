@@ -5,7 +5,11 @@ title: The Game
 
 <h1>&Uuml;ber uno | Uno on steroids</h1>
 
-&Uuml;ber uno is a modified version of the classic Uno card game .
+&Uuml;ber uno is a modified version of the classic Uno card game. There are several additions including 
+new cards and some wacky gameplay.
+
+## Gameplay
+
 Each round or "hand" consists of the rules for a basic Uno game plus a 
 "Wild Ones" rule, the "Fast Eddy" and a combination of several addon rules
 which are determined by the dealer of that particular hand.  In &Uuml;ber Uno, there
@@ -64,10 +68,9 @@ of the day, aka the "Nappy".
        on "Uno", that player may go out by giving the challenging player that 
        card.
 
+## The Cards
+
 <img src="assets/img/cards_1.png"  width="600">
-
-
-## New Cards
 
 ### Ultimate Joker
 The Ultimate Joker can be used for multiple purposes.  If a player is on the 
