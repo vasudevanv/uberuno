@@ -121,7 +121,7 @@ color.
 ### Old School
 Under the old school rules, the magnitude of action for the 1's is one.
 
-####Red One – The Red Hot Chili Pepper Card
+#### Red One – The Red Hot Chili Pepper Card
 * When played, the player of the card removes one card from his hand and 
   places it face down on he table and gives it to one other player.
 * If the player of the card shows the card to any other player while giving it away, 
@@ -130,7 +130,7 @@ Under the old school rules, the magnitude of action for the 1's is one.
   give away one of his cards (unless blocked). 
 * At the end of the game, the Red One counts as one word card.
 
-####Yellow One – The Confusing One
+#### Yellow One – The Confusing One
 * Can be played at any time including when hit with a draw card, but cannot 
   be played to go out. 
 * When played during a normal turn, the player turns in his cards to the 
@@ -141,17 +141,12 @@ Under the old school rules, the magnitude of action for the 1's is one.
   from the draw pile and the action is taken based on the drawn card. If the 
   drawn card is 
     * Numbered Card : The player draws that many cards.
-    * Major : The next player in turn draws 4 plus the original # of 
-      draw cards.
-    * Minor : The next player in turn draws 2 plus the original # of draw 
-      cards.
-    * Reverse : The player who threw the draw card on the player of the 
-      yellow one must draw the original # cards.
+    * Major : The next player in turn draws 4 plus the original # of draw cards.
+    * Minor : The next player in turn draws 2 plus the original # of draw cards.
+    * Reverse : The player who threw the draw card on the player of the yellow one must draw the original # cards.
     * Skip : The next player in turn draws the original # of cards.
-    * Change Hands : The player draws the original # of cards and changes 
-      his entire hand with another player.  It can be blocked by the receiving player.
-    * Wild : The player draws the original # of cards and then changes hands.  It cannot be
-      blocked by the receiving player unless they have a joker.
+    * Change Hands : The player draws the original # of cards and change his entire hand with another player.  It can be blocked by the receiving player.
+    * Wild : The player draws the original # of cards and then changes hands.  It cannot be blocked by the receiving player unless they have a joker.
     * Yellow #1 : Blocks the original Yellow #1.
 
 * If a Yellow One is the turn card, the dealer must exchange his entire 
@@ -164,7 +159,7 @@ Under the old school rules, the magnitude of action for the 1's is one.
   period of time in which the card can be blocked or re-instated. 
 * At the end of the game, the Yellow One counts as one word card.
 
-####Blue One – The Danger Card
+#### Blue One – The Danger Card
 * Can be played at any time except to go out and except when hit with a 
   draw card. 
 * When played, hands are changed by passing each hand one position in the 
@@ -176,9 +171,8 @@ Under the old school rules, the magnitude of action for the 1's is one.
   blocked or re-instated. 
 * At the end of the game, the Blue One counts as one word card.
 
-####Green One – The Repo Card 
-* Can be played at any time except to go out and except when hit with a 
-  draw card. 
+#### Green One – The Repo Card 
+* Can be played at any time except to go out and except when hit with a draw card. 
 * When played, the player of the card is entitled to select any one card 
   from the discard pile and add it to his hand. Play continues to the next 
   person after the card selection is complete (the selected card cannot be 
@@ -192,14 +186,12 @@ Under the old school rules, the magnitude of action for the 1's is one.
 * At the end of the game, the Green One counts as one word card. 
 
 ### Russian
-The action of the ones remains the same as old school, except the magnitude of their action is determined by "Russian Roulette".
-The player flips a card from the top of the draw pile and this determines the magnitude of the action.
+The action of the ones remains the same as old school, except the magnitude of their action is determined by "Russian Roulette", i.e., the player flips a card from the top of the draw pile and this determines the magnitude of the action.
 
-####Red One
-To determine the number of cards to give away the player flips a card from the top of the deck until a numbered card is reached. If
-the number is greater than the number of cards in the player's hand, the player must draw up to that number of cards. 
+#### Red One
+To determine the number of cards to give away the player flips a card from the top of the deck until a numbered card is reached. If the number is greater than the number of cards in the player's hand, the player must draw up to that number of cards. 
 
-####Yellow One
+#### Yellow One
 The player flips a card from the top of the deck and the consequences are as follows
 If the drawn card is 
   * Numbered Card : The player exchanges their hand for that many cards.
@@ -214,10 +206,7 @@ If the drawn card is
   * Yellow #1 : Blocks the original Yellow #1.
 
 ### Buddy system
-
-* These rules are the same as Russian, but instead of flipping a card, the next player in turn determines the magnitude
-  of the player's wild one card.
-* The next player resumes play after action is taken on the wild one, playing off of the card they played for their buddy.
+The rules are the same as Russian, but instead of flipping a card, the next player in turn determines the magnitude of the player's wild one card by playing a card from his/her hand. The next player resumes play after action is taken on the wild one, playing off of the card they played for their buddy.
 
 ## Optional addons
 
@@ -269,7 +258,4 @@ the following rules
   * Wild : The player draws one card and then changes hands.  It cannot be blocked by the receiving player unless they have the joker.
 
 ### Rotate
-Each time a reverse is played you rotate hands in the direction of play. If multiple reverses are played by the same player then the
-number of places you rotate by increases, i.e., if two reverses are played you change hands with the person 2 places in the direction
-of play. if 3 reverses are played, then you rotate hands by 3 places in the opposite direction of play. A player can fast eddy and either
-add to or cancel a reverse. The rotation can be blocked by a joker.
+Each time a reverse is played you rotate hands in the direction of play. If multiple reverses are played by the same player then the number of places you rotate by increases, i.e., if two reverses are played you change hands with the person 2 places in the direction of play. if 3 reverses are played, then you rotate hands by 3 places in the opposite direction of play.  A player can fast eddy and either add to or cancel a reverse. The rotation can be blocked by a joker.
