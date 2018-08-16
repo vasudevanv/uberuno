@@ -73,7 +73,7 @@ of the day, aka the "Nappy".
 <img src="assets/img/cards_1.png"  width="600">
 
 ### Ultimate Joker
-<img align="right" src="assets/img/joker.svg" height="200">
+<img align="right" src="assets/img/joker.svg" height="150">
 
 The Ultimate Joker can be used for multiple purposes.  If a player is on the 
 receiving end of a draw card, the Joker can be used to reverse direction of play 
@@ -84,13 +84,15 @@ block the <span>&Uuml;ber</span>.  It cannot be requested by a player
 who is fishing.
 
 ### Uber
-<img align="right" src="assets/img/uber.svg" height="200">
+<img align="right" src="assets/img/uber.svg" height="150">
+
 The <span>&Uuml;ber</span> card when played allows the player who played the 
 card to exchange his hand with any of the other players. The hand exchange 
 is mandatory ans hence the card cannot be used to go out.  
 
 ### Change Hands
-<img src="assets/img/changehands.svg" width="600">
+<img src="assets/img/changehands.svg" width="400">
+
 This card can be played to change hands with any other player at the table.  The play can be blocked
 if the requested player plays a change hands card.
 
