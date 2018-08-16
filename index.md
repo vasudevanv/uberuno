@@ -73,7 +73,7 @@ of the day, aka the "Nappy".
 <img src="assets/img/cards_1.png"  width="600">
 
 ### Ultimate Joker
-![alt text](assets/img/joker.svg "Joker")
+<img align="right" src="assets/img/joker.svg")
 
 The Ultimate Joker can be used for multiple purposes.  If a player is on the 
 receiving end of a draw card, the Joker can be used to reverse direction of play 
